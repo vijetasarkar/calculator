@@ -1,0 +1,28 @@
+.container
+{
+    text-align:center;
+}
+table
+{
+    margin:auto;
+}
+
+button
+{
+    font-size: 20px;
+    height:50px;
+    width:50px;
+    font-weight: 200;
+}
+.calculator
+{
+    display: inline-block;
+}
+#screen
+{
+    font-size: 25px;
+    background-color:lightgreen;
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
